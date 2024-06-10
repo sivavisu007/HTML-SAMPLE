@@ -1,0 +1,31 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: white;
+    color: black;
+}
+table, tr, th, td, caption{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.centered-heading {
+    text-align: center;
+}
+
+.colored-heading {
+    color: black; 
+}
+.shadowed-heading {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.5); 
+}
+.underlined-heading {
+    text-decoration: underline;
+}
+.container{
+    margin-left: 10em;
+}
+
